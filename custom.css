@@ -1,5 +1,39 @@
+/*Colors */
+/*
+// As hex codes
+
+$color-primary-0: #C1FDB7;	// Main Primary color
+$color-primary-1: #FFFFFF;
+$color-primary-2: #F0FFEE;
+$color-primary-3: #99F98A;
+$color-primary-4: #76F062;
+
+$color-complement-0: #FFB8BD;	// Main Complement color
+$color-complement-1: #FFFFFF;
+$color-complement-2: #FFEEEF;
+$color-complement-3: #FE8D95;
+$color-complement-4: #FD6873;
+
+// As RGBa codes
+
+$rgba-primary-0: rgba(193,253,183,1);	// Main Primary color
+$rgba-primary-1: rgba(255,255,255,1);
+$rgba-primary-2: rgba(240,255,238,1);
+$rgba-primary-3: rgba(153,249,138,1);
+$rgba-primary-4: rgba(118,240, 98,1);
+
+$rgba-complement-0: rgba(255,184,189,1);	// Main Complement color
+$rgba-complement-1: rgba(255,255,255,1);
+$rgba-complement-2: rgba(255,238,239,1);
+$rgba-complement-3: rgba(254,141,149,1);
+$rgba-complement-4: rgba(253,104,115,1);
+*/
 body {
   margin-top: 70px;
+}
+
+nav {
+  background-color: #c0fdb7;
 }
 
 /*# sourceMappingURL=custom.css.map */
